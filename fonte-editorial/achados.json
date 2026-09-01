@@ -1,0 +1,266 @@
+[
+ {
+  "sev": "C",
+  "escopo": "Livro inteiro",
+  "achado": "Palavras partidas ao meio, sem hífen, nas colunas estreitas (\"Piperacilina-Tazobac tam\", \"individualizar se pne umonia/bronquiectas ia\", \"a minoglicosídeo/vancomicina/aciclovi r\").",
+  "correcao": "107 ocorrências reconstituídas; nova composição usa hifenização pt-BR e larguras de coluna calculadas, eliminando a causa."
+ },
+ {
+  "sev": "C",
+  "escopo": "Fichas A31 e A32",
+  "achado": "O rótulo \"NITROFURÂNICOS/FOSFOMICINA\" aparecia partido em dois chips (\"NITROFURÂNICOS/FOSFOM\" + \"ICINA\").",
+  "correcao": "Rótulo reconstituído em um único chip."
+ },
+ {
+  "sev": "C",
+  "escopo": "Livro inteiro",
+  "achado": "Grafias fora do Acordo Ortográfico e acentos ausentes: \"otorréia\" (12×), \"pos-neurocirurgia\", \"primario\", \"nefromostomia\", \"cristaluria\", \"obstruida\", \"anfilaxia\", \"pH < 7.35\", entre outras.",
+  "correcao": "Corrigidas; separador decimal padronizado em vírgula."
+ },
+ {
+  "sev": "C",
+  "escopo": "Capítulos 01, 06, 07",
+  "achado": "Verbo \"é\" grafado como conjunção \"e\", invertendo o sentido de 11 frases (\"o tratamento definitivo e controle de fonte\", \"A prioridade e hidratação\", \"5 DIAS E SUFICIENTE\").",
+  "correcao": "Frases corrigidas."
+ },
+ {
+  "sev": "C",
+  "escopo": "Capítulos 14, 16, 19 e fichas",
+  "achado": "Terminologia de aplicativo remanescente no livro: \"o app\", \"card\", \"módulo\", \"schema\" — inclusive uma nota interna de desenvolvimento publicada em 14.7 (\"mantido como VO por limitação atual do schema\").",
+  "correcao": "Substituída por terminologia editorial (quadro, ficha, capítulo); nota interna removida. \"MIC/CMI\" unificados em \"CIM\"."
+ },
+ {
+  "sev": "A",
+  "escopo": "Livro inteiro (1.1, 1.2 e ficha A18)",
+  "achado": "Vancomicina com alvo terapêutico declarado como \"vale 15–20 µg/mL\" e dose de ataque de \"25 mg/kg obrigatória\", sem teto de dose. O consenso ASHP/IDSA/PIDS/SIDP 2020 abandonou o alvo de vale 15–20 para infecção grave por MRSA justamente pelo excesso de nefrotoxicidade.",
+  "correcao": "Alvo passa a AUC₂₄/CIM 400–600 (preferencial), com o vale 15–20 mg/L apenas como substituto explícito quando a AUC não estiver disponível. Ataque 20–35 mg/kg de peso real (25–30 no crítico), teto de 3 g/dose e tempo mínimo de infusão especificados."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.1 e 1.2 — critérios de UTI",
+  "achado": "O critério menor de UTI da ATS/IDSA foi transcrito como \"ureia ≥ 20 mg/dL\". O critério original é BUN ≥ 20 mg/dL, que corresponde a ureia ≈ 43 mg/dL na unidade usada no Brasil — a transcrição literal reduz o limiar em mais da metade.",
+  "correcao": "Passa a \"ureia ≥ 43 mg/dL (equivale a BUN ≥ 20 mg/dL)\" nos dois quadros."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.1, 1.2, 7.1 — cefepime",
+  "achado": "Ajuste renal do cefepime divergente dentro do próprio livro: \"11–29 mL/min → 1 g 12/12 h\" em 1.1/1.2/7.1 e \"2 g 24/24 h\" em 1.9. Para o esquema de infecção grave (2 g 8/8 h) a bula prevê 2 g 24/24 h nessa faixa; a redução para 1 g 12/12 h subdosa em infecção grave.",
+  "correcao": "Harmonizado para >60: 2 g 8/8 h · 30–60: 2 g 12/12 h · 11–29: 2 g 24/24 h · ≤10: 1 g 24/24 h."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.1 e 5.3 — piperacilina-tazobactam",
+  "achado": "Ajuste renal misturava as faixas do esquema de 3,375 g com as do esquema de 4,5 g 6/6 h; e o teto era descrito como \"18 g/dia (pip)\", quando 18 g é a soma piperacilina+tazobactam (piperacilina = 16 g/dia).",
+  "correcao": "Faixas do esquema de 4,5 g 6/6 h aplicadas de forma coerente e teto corrigido para 16 g/dia de piperacilina."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.5 — Pneumonia broncoaspirativa",
+  "achado": "A conduta de partida terminava com uma dose sem fármaco: \"…antibiótico conforme evolução e gravidade 3 g EV 6/6 h\". Um plantonista lendo apenas o destaque não tem como saber a que droga a dose se refere.",
+  "correcao": "Conduta de partida reescrita com o fármaco explícito (ampicilina-sulbactam 3 g EV 6/6 h) e o ramo de pneumonite química preservado como condição."
+ },
+ {
+  "sev": "A",
+  "escopo": "3.3 e 3.4 — infecções cervicais profundas",
+  "achado": "A conduta de partida citava ampicilina-sulbactam e terminava com \"4,5 g EV 6/6 h\", que é a dose da piperacilina-tazobactam. A leitura direta sugere ampicilina-sulbactam 4,5 g 6/6 h, posologia que não existe.",
+  "correcao": "Cada fármaco passa a aparecer com a sua própria dose, separados por cenário (comunitário vs. risco assistencial)."
+ },
+ {
+  "sev": "A",
+  "escopo": "13.5 — Malária grave",
+  "achado": "Na emergência com maior letalidade do capítulo, a conduta de partida abria com a frase de triagem (\"Página de triagem: confirmar espécie…\") e a dose de artesunato ficava pendurada no final, sem nome de fármaco; a via aparecia como \"Conduta\" em vez de EV.",
+  "correcao": "Conduta de partida passa a nomear o artesunato com a dose completa e a via EV; a triagem por espécie/peso/G6PD permanece como condição para o esquema oral de continuidade. Acrescentada a dose pediátrica de 3 mg/kg para < 20 kg."
+ },
+ {
+  "sev": "A",
+  "escopo": "11.2 — Gonorreia não complicada",
+  "achado": "A tabela de ajustes trazia \"gentamicina 240 mg IM dose única quando alternativa necessária\", sem o parceiro obrigatório. Gentamicina isolada não é esquema aceito para gonorreia e a monoterapia falha com frequência.",
+  "correcao": "A alternativa passa a constar como gentamicina 240 mg IM + azitromicina 2 g VO em dose única, com nota de controle de cura — igual ao que o próprio livro já trazia corretamente em 12.2."
+ },
+ {
+  "sev": "A",
+  "escopo": "11.3 — Clamídia não complicada",
+  "achado": "A conduta de partida indicava \"azitromicina 1 g VO dose única\" enquanto o campo de duração do mesmo quadro dizia \"7 dias\" e a única linha da tabela de esquemas trazia doxiciclina 7 dias. Três informações incompatíveis no mesmo quadro.",
+  "correcao": "Conduta de partida passa a doxiciclina 100 mg 12/12 h por 7 dias no adulto não gestante (preferencial em infecção retal), com azitromicina 1 g dose única explicitada como o ramo de gestação/adesão do PCDT. Duração corrigida em ambos os ramos."
+ },
+ {
+  "sev": "A",
+  "escopo": "11.6 (e coerência com 10.8) — Tricomoníase",
+  "achado": "O mesmo livro trazia três versões do esquema: conduta de partida \"2 g VO dose única\", tabela de ajustes \"500 mg 12/12 h por 7 dias em mulheres / 2 g dose única em homens\" e, em 10.8, \"500 mg 12/12 h por 7 dias\" como padrão feminino.",
+  "correcao": "Unificado: mulher 500 mg 12/12 h por 7 dias (preferencial, superior à dose única), homem 2 g dose única; a alternativa do PCDT permanece identificada."
+ },
+ {
+  "sev": "B",
+  "escopo": "12.5 — Celulite orbitária",
+  "achado": "O quadro prescrevia \"ceftriaxona 2 g EV a cada 12–24 h\" e, no alerta logo abaixo, instruía explicitamente a NÃO escrever \"ceftriaxona 12–24 h\" — contradizendo a si mesmo e deixando a dose meníngea indefinida.",
+  "correcao": "Passa a 2 g 24/24 h como padrão, com 2 g 12/12 h reservada e nomeada para extensão intracraniana."
+ },
+ {
+  "sev": "A",
+  "escopo": "7.1 — Meningite bacteriana",
+  "achado": "O descalonamento para penicilina G estava condicionado a \"CIM de penicilina < 0.1\", que é o ponto de corte não meníngeo. Para meningite, o ponto de corte de sensibilidade do CLSI é ≤ 0,06 µg/mL — a regra antiga autoriza penicilina em cepas que não são sensíveis no LCR.",
+  "correcao": "Critério corrigido para CIM ≤ 0,06 µg/mL, identificado como ponto de corte meníngeo."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.3 — Exacerbação infecciosa de DPOC",
+  "achado": "A \"conduta passo a passo\" contradizia a tabela de esquemas do mesmo quadro: indicava levofloxacino como 1ª linha na exacerbação moderada, \"cefuroxima + claritromicina\" na grave e \"pip-tazo + ciprofloxacino\" de rotina no risco de Pseudomonas — exatamente o que a tabela de esquemas e os alertas desaconselham.",
+  "correcao": "Passo a passo reescrito para espelhar a tabela de esquemas: amoxicilina-clavulanato como 1ª linha, quinolona reservada a alergia/falha e dupla cobertura antipseudomonas apenas em choque/MDR."
+ },
+ {
+  "sev": "B",
+  "escopo": "1.3 — nomenclatura GOLD",
+  "achado": "Uso de \"GOLD D (FEV1 < 30%)\". O grupo D deixou de existir na classificação GOLD desde 2023 (grupos A, B e E) e VEF₁ < 30% é grau espirométrico GOLD 4, não grupo.",
+  "correcao": "Substituído por \"VEF₁ < 30% (GOLD 4) ou exacerbador frequente (grupo E)\"."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.1, 1.2 e 7.1 — tabela de stewardship",
+  "achado": "A linha \"Transição EV → VO\" estava preenchida com critérios de FALHA TERAPÊUTICA (\"ausência de melhora após 48–72 h\", \"isolamento de patógeno resistente\"), e em 1.2 e 7.1 a linha \"Controle de foco\" trazia conduta de MRSA e o esquema empírico. Lidas de forma literal, essas linhas orientam a passar para via oral justamente no paciente que está falhando.",
+  "correcao": "Conteúdo realocado e reescrito: critérios reais de transição EV→VO, controle de foco pertinente a cada síndrome, e a explicitação de que meningite bacteriana não tem transição oral."
+ },
+ {
+  "sev": "B",
+  "escopo": "5.1 e 5.3 — duração da ITU alta/complicada",
+  "achado": "O campo de duração do quadro trazia a regra da diretriz IDSA 2025 (5–7 dias com fluoroquinolona, 7 dias com não fluoroquinolona), mas as linhas da tabela de esquemas mantinham \"7–10 dias\" e \"7–14 dias\" da prática antiga. O médico lia duas durações diferentes no mesmo quadro.",
+  "correcao": "Tabela harmonizada com a diretriz de 2025: 7 dias na resposta favorável com foco controlado, contados da primeira terapia ativa, e 10–14 dias reservados às exceções nomeadas."
+ },
+ {
+  "sev": "A",
+  "escopo": "14.7 — Impetigo pediátrico",
+  "achado": "A mupirocina, de uso tópico, estava rotulada com via \"VO\" na tabela de esquemas e na de ajustes, acompanhada de uma nota interna de desenvolvimento publicada no livro.",
+  "correcao": "Via corrigida para tópica nos dois pontos e nota interna removida."
+ },
+ {
+  "sev": "B",
+  "escopo": "1.2, 3.3, 19.3, 19.7 — aztreonam",
+  "achado": "A mesma indicação aparecia ora como 2 g EV 6/6 h, ora 8/8 h, sem critério explícito. 2 g 6/6 h corresponde ao teto de 8 g/dia.",
+  "correcao": "Padronizado em 2 g EV 8/8 h, com 6/6 h reservado e nomeado para Pseudomonas grave, com o teto de 8 g/dia explícito."
+ },
+ {
+  "sev": "B",
+  "escopo": "7.6 — Meningite tuberculosa",
+  "achado": "A duração aparecia como \"9–12 meses ou conforme protocolo\" e o esquema apenas como \"doses por peso conforme protocolo de TB\", sem indicar qual é o esquema brasileiro para a forma meningoencefálica.",
+  "correcao": "Explicitado o esquema do Ministério da Saúde: 2 meses de RHZE + 10 meses de RH (12 meses no total), com piridoxina associada à isoniazida e corticoide por 4–8 semanas com desmame."
+ },
+ {
+  "sev": "A",
+  "escopo": "13.8 — Tétano acidental instalado",
+  "achado": "A imunoglobulina antitetânica constava apenas como \"dose única conforme protocolo oficial/local\", sem número. Em uma emergência de UTI, o guia deixava a dose da terapia específica em aberto.",
+  "correcao": "Doses explicitadas: 3.000–6.000 UI IM no tétano instalado e 250–500 UI na profilaxia, com a ressalva do SAT heterólogo."
+ },
+ {
+  "sev": "B",
+  "escopo": "7.5 — Neurotoxoplasmose",
+  "achado": "O esquema de indução terminava com \"≥6 semanas, depois manutenção\", sem informar as doses da manutenção nem o critério para suspendê-la.",
+  "correcao": "Acrescentada a linha de manutenção com doses (pirimetamina 25–50 mg/dia + sulfadiazina 2–4 g/dia + ácido folínico) e o critério de suspensão (CD4 > 200 por mais de 6 meses em TARV)."
+ },
+ {
+  "sev": "B",
+  "escopo": "11.4 — Sífilis adquirida",
+  "achado": "O quadro remetia a neurossífilis/sífilis ocular como \"outro ramo\", mas o livro não trazia em nenhum lugar o esquema correspondente; e não havia menção à reação de Jarisch-Herxheimer, que é a intercorrência mais comum após a primeira dose e é rotineiramente confundida com alergia.",
+  "correcao": "Acrescentado o esquema de neurossífilis (penicilina G cristalina 18–24 milhões UI/dia por 10–14 dias) e um alerta sobre a reação de Jarisch-Herxheimer, com a ressalva obstétrica."
+ },
+ {
+  "sev": "B",
+  "escopo": "2.1 — Faringoamigdalite estreptocócica",
+  "achado": "O quadro citava genericamente \"usar escore\" sem nomeá-lo e não explicitava a razão de tratar (prevenção de febre reumática), que é o que sustenta o curso de 10 dias em vez de um curso curto.",
+  "correcao": "Escore de Centor/McIsaac nomeado e acrescentado alerta explicando o objetivo do tratamento e por que a duração de 10 dias não deve ser encurtada."
+ },
+ {
+  "sev": "C",
+  "escopo": "Livro inteiro — sulfametoxazol-trimetoprima",
+  "achado": "A mesma droga aparecia como \"800/160 mg\", \"160/800 mg\", \"1 comprimido DS\" e \"1–2 DS\" — sendo \"DS\" (double strength) nomenclatura norte-americana sem correspondência na apresentação brasileira.",
+  "correcao": "Padronizado para \"800/160 mg (1 comprimido)\" em todo o livro, com a ordem sulfametoxazol/trimetoprima constante."
+ },
+ {
+  "sev": "C",
+  "escopo": "96 quadros — bloco \"Validação antes da prescrição\"",
+  "achado": "Os valores internos do modelo de dados foram publicados em inglês dentro do texto: \"Nível: none.\", \"Nível: recommended.\", \"Nível: required.\" aparecem no início do bloco de validação em 96 quadros.",
+  "correcao": "Convertidos em um selo em português no cabeçalho do quadro — Validação institucional: dispensável / recomendada / obrigatória — e a frase explicativa foi mantida como texto corrido."
+ },
+ {
+  "sev": "C",
+  "escopo": "Livro inteiro — bloco \"Validação antes da prescrição\"",
+  "achado": "106 repetições de itens de checklist genéricos (\"Confirmar alergias, função orgânica, gestação/lactação, interações e protocolo local\", \"Validar com protocolo institucional/CCIH…\") que já constam integralmente do bloco \"Antes de prescrever\" da abertura do livro.",
+  "correcao": "Itens genéricos removidos dos quadros e mantidos uma única vez na abertura; permanecem no quadro apenas os itens específicos daquela síndrome."
+ },
+ {
+  "sev": "C",
+  "escopo": "90 quadros — alerta de alergia a betalactâmico",
+  "achado": "O mesmo alerta de 300 caracteres (\"Separar efeito adverso/intolerância, reação imediata de baixo ou alto risco…\") era repetido integralmente em 90 quadros, ocupando cerca de 4 páginas somadas.",
+  "correcao": "Transferido para a abertura do livro, na página \"Alergia a betalactâmico em uma página\", com remissão fixa ao quadro 19.7 no rodapé da seção \"Alternativas e alergia\" de cada quadro."
+ },
+ {
+  "sev": "C",
+  "escopo": "Capítulos 14, 17 e 19",
+  "achado": "Alertas idênticos repetidos em todos os quadros do capítulo: \"Dose pediátrica exige conferência ativa\" (11×), \"Síndrome prática\" (14×), \"Checklist de profilaxia\" (10×).",
+  "correcao": "Promovidos a nota de abertura do capítulo, onde valem para todos os quadros, e removidos das repetições."
+ },
+ {
+  "sev": "C",
+  "escopo": "162 quadros — bloco \"Escopo da revisão\"",
+  "achado": "Uma caixa de 250 caracteres com o mesmo texto de rodapé metodológico era repetida ao final de cada um dos 162 quadros (sete variantes ao todo), somando cerca de 8 páginas.",
+  "correcao": "Convertida em um selo compacto no cabeçalho do quadro (status · nível de evidência · data da revisão); a explicação metodológica completa passa a constar uma única vez na política editorial."
+ },
+ {
+  "sev": "C",
+  "escopo": "157 quadros — tabela \"Antimicrobianos e ajustes\"",
+  "achado": "A coluna \"Outras populações/monitorização\" concatenava até quatro informações distintas separadas por barra vertical — ajuste hepático, gestação/lactação, teto de dose e monitorização — e a frase de gestação/lactação, sempre idêntica, repetia-se cerca de 600 vezes no livro.",
+  "correcao": "A coluna foi desmembrada em campos próprios. Gestação/lactação passou a ser um selo de três estados (uso aceito / com ressalva / evitar) ao lado do nome do fármaco, com a legenda apresentada uma única vez; teto de dose e ajuste hepático ganharam colunas próprias."
+ },
+ {
+  "sev": "C",
+  "escopo": "39 fichas de antimicrobianos — bloco \"Espectro\"",
+  "achado": "O espectro era apresentado como uma tabela de nove linhas por ficha, em que a frase \"não contar como cobertura\" aparecia 250 vezes no conjunto do livro — cerca de 351 linhas de tabela para transmitir 351 valores de três estados.",
+  "correcao": "Substituído por uma faixa compacta de nove marcadores com três estados (cobre / depende de sensibilidade / não cobre), lida de relance e com as notas específicas preservadas. Reduz cerca de 12 páginas."
+ },
+ {
+  "sev": "B",
+  "escopo": "Livro inteiro — referências",
+  "achado": "A bibliografia de capítulo era reimpressa dentro de cada um dos 162 quadros; havia 70 entradas que não eram citações mas descrições de princípio (\"Deep neck infection airway management principles\", \"Sanford Guide / protocol institutional\"); e a mesma diretriz aparecia com grafias diferentes (por exemplo \"ATS/IDSA 2016 HAP/VAP Guidelines\" e \"ATS/IDSA. Hospital-acquired and Ventilator-associated Pneumonia, 2016\").",
+  "correcao": "Cada quadro passa a exibir apenas a sua referência específica; a bibliografia consolidada e sem duplicatas fecha o capítulo. As entradas que não eram citações foram removidas. Foram acrescentadas as diretrizes que faltavam e que sustentam o conteúdo: ATS/IDSA 2019 (esquemas empíricos e critérios de gravidade da PAC), IDSA 2012 de rinossinusite, IDSA SSTI 2014, IDSA 2009 de cateter e IDSA de osteomielite vertebral e prótese articular."
+ },
+ {
+  "sev": "B",
+  "escopo": "109 dos 162 quadros",
+  "achado": "Apenas 53 dos 162 quadros (33%) traziam referência específica; os demais eram sustentados apenas pela bibliografia do capítulo — inclusive quando o tema do quadro não era coberto por ela (rinossinusite, bronquiectasia e DPOC referenciadas a uma diretriz de pneumonia comunitária).",
+  "correcao": "O selo de cada quadro passa a declarar explicitamente o nível da referência (verificado / revisão parcial / bibliografia de capítulo), de modo que o leitor saiba, em cada página, se aquela conduta tem diretriz dedicada ou é sustentada por bibliografia geral. As bibliografias de capítulo foram corrigidas para conter as diretrizes pertinentes."
+ },
+ {
+  "sev": "C",
+  "escopo": "162 quadros — etiquetas do cabeçalho",
+  "achado": "A quarta etiqueta (\"GUIDELINE\"/\"REVISÃO\") duplicava a informação do selo de status do quadro; e 1.1 trazia simultaneamente \"MODERADA\" e \"AMBULATORIAL\", combinação contraditória para um quadro cuja conduta de partida é amoxicilina oral.",
+  "correcao": "Etiqueta redundante removida (a informação passou para o selo de status) e a gravidade de 1.1 ajustada para \"LEVE A MODERADA\"."
+ },
+ {
+  "sev": "C",
+  "escopo": "Livro inteiro",
+  "achado": "Índices químicos e fisiológicos escritos ora com subscrito ora com dígito normal na mesma página: \"SpO2\" e \"SpO₂\", \"PaO₂/FiO₂\" e \"PaO2/FiO2\", \"FEV1\" e \"VEF₁\".",
+  "correcao": "Padronizados com subscrito em todo o livro (SpO₂, PaO₂/FiO₂, VEF₁, O₂) e a sigla espirométrica unificada em VEF₁."
+ },
+ {
+  "sev": "C",
+  "escopo": "Livro inteiro",
+  "achado": "Convivência de \"beta-lactâmico\" e \"betalactâmico\" no mesmo livro (e \"beta-lactamase\"/\"betalactamase\").",
+  "correcao": "Padronizado para a grafia sem hífen — betalactâmico, betalactamase — em todas as ocorrências."
+ },
+ {
+  "sev": "C",
+  "escopo": "Capítulos 01 a 19 — coluna \"Duração\"",
+  "achado": "A mesma regra de duração, escrita por extenso, repetia-se linha a linha dentro da própria tabela — em 1.1, por exemplo, o parágrafo \"Cursos de 3–4 dias podem ser considerados apenas em pacientes selecionados, com estabilidade clínica objetiva, sem complicação e com seguimento confiável\" aparecia três vezes na mesma página. Isso alongava a linha inteira e deixava as demais colunas com grandes vazios.",
+  "correcao": "53 células reduzidas à duração propriamente dita; a regra que as qualifica passou a uma nota única sob a tabela. A informação é a mesma, lida em um terço do espaço."
+ },
+ {
+  "sev": "B",
+  "escopo": "Fichas de antimicrobianos",
+  "achado": "Ampicilina e rifampicina eram prescritas como primeira linha em vários quadros — ampicilina na cobertura obrigatória de Listeria na meningite e na endocardite enterocócica; rifampicina como adjuvante anti-biofilme em prótese e na quimioprofilaxia de meningococo — mas nenhuma das duas tinha ficha própria no livro.",
+  "correcao": "Acrescentadas as duas fichas, com dose, ajuste renal, espectro, alertas de uso (rifampicina nunca em monoterapia; momento certo de iniciá-la em material protético) e o perfil de interações do CYP450. O total de fármacos passa de 39 para 41."
+ },
+ {
+  "sev": "C",
+  "escopo": "Fichas de antimicrobianos",
+  "achado": "As fichas eram numeradas por classe farmacológica (penicilinas, depois cefalosporinas, depois carbapenêmicos…), o que obriga a saber a classe antes de encontrar o fármaco.",
+  "correcao": "Reordenadas em ordem alfabética e renumeradas de A1 a A41; a classe permanece visível como etiqueta em cada ficha, e o novo índice de antimicrobianos remete a todos os quadros em que cada fármaco aparece com dose."
+ }
+]
