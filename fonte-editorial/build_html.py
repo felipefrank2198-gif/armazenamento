@@ -279,11 +279,54 @@ traz a versão operacional para o plantão.</p>
 </ul>
 </section>'''
 
+
+APRESENTACOES = """<section class="front" id="f-apresentacoes">
+<div class="kicker">Antes de prescrever</div>
+<h2>Apresentações disponíveis no Brasil</h2>
+<p class="lead">Uma dose correta pela diretriz pode não existir na farmácia. As diretrizes que sustentam este
+livro são majoritariamente norte-americanas e europeias, e várias apresentações que elas usam não têm
+registro no Brasil. Esta página reúne os pontos em que a diferença muda a prescrição.</p>
+
+<h3>Onde a apresentação brasileira muda a receita</h3>
+<table class="defs">
+<tr><td class="k">Amoxicilina</td><td>Cápsula de 500 mg e comprimido de 875 mg. <b>Não há apresentação de 1 g</b>: a dose de 1 g VO 8/8 h da pneumonia comunitária corresponde a duas cápsulas de 500 mg.</td></tr>
+<tr><td class="k">Amoxicilina + clavulanato</td><td>Comprimidos de 500/125 mg e 875/125 mg; suspensões de 250/62,5 e 400/57 mg por 5 mL; injetável de 1000/200 mg. <b>A apresentação de liberação prolongada 2000/125 mg (XR) não existe no Brasil.</b> Quando for necessária maior exposição à amoxicilina, associar amoxicilina isolada em vez de aumentar o clavulanato.</td></tr>
+<tr><td class="k">Amoxicilina + clavulanato em pediatria</td><td>A dose alta das diretrizes norte-americanas (90 mg/kg/dia de amoxicilina com 6,4 mg/kg/dia de clavulanato) depende da suspensão 600/42,9 mg por 5 mL, proporção 14:1, que não existe aqui. Com a suspensão brasileira (400/57 mg por 5 mL, proporção 7:1), dar até 70 mg/kg/dia por ela e completar com amoxicilina isolada, mantendo o clavulanato em até 10 mg/kg/dia.</td></tr>
+<tr><td class="k">Penicilina V</td><td>Comprimido de 500.000 UI (≈ 312 mg) e solução oral de 80.000 UI/mL. <b>Não há comprimido rotulado em miligramas</b>: prescrever em unidades internacionais.</td></tr>
+<tr><td class="k">Oxacilina</td><td>Apenas apresentação injetável. Para cobertura antiestafilocócica oral, a opção é cefalexina.</td></tr>
+<tr><td class="k">Cefdinir</td><td>Disponível apenas como suspensão oral pediátrica. Não há cápsula para adulto.</td></tr>
+<tr><td class="k">Cefpodoxima e cefixima</td><td>Disponibilidade variável. Não contar com elas como plano B sem confirmar no formulário do serviço.</td></tr>
+<tr><td class="k">Colírios e pomadas oftálmicas</td><td>As opções com registro nacional são tobramicina 0,3% (colírio e pomada), ciprofloxacino 0,3%, azitromicina 1,5% e as associações oxitetraciclina + polimixina B e neomicina + polimixina B + bacitracina.</td></tr>
+</table>
+
+<h3>Citadas na literatura internacional, sem equivalente no Brasil</h3>
+<ul>
+<li><b>Amoxicilina-clavulanato 2000/125 mg (XR)</b> — usar 875/125 mg 12/12 h, ou 500/125 mg 8/8 h, associando amoxicilina isolada quando for preciso elevar a amoxicilina.</li>
+<li><b>Suspensão pediátrica 600/42,9 mg por 5 mL (14:1)</b> — usar a suspensão 400/57 mg por 5 mL e completar com amoxicilina isolada.</li>
+<li><b>Dicloxacilina</b> — usar cefalexina por via oral; oxacilina apenas endovenosa.</li>
+<li><b>Colírio de polimixina B + trimetoprima</b> — usar tobramicina, ciprofloxacino ou azitromicina colírio.</li>
+<li><b>Pomada oftálmica de eritromicina e de bacitracina isolada</b> — usar tobramicina pomada ou as associações disponíveis.</li>
+</ul>
+
+<h3>Antimicrobianos de reserva: registro não é o mesmo que disponibilidade</h3>
+<p>Ceftazidima-avibactam, ceftolozano-tazobactam, meropenem-vaborbactam, imipenem-relebactam, cefiderocol,
+sulbactam-durlobactam, aztreonam-avibactam, fidaxomicina e bezlotoxumabe aparecem nos capítulos hospitalares
+como as opções corretas para os respectivos mecanismos de resistência. Nem todos estão registrados no país,
+e mesmo os registrados podem não estar padronizados no seu serviço. Antes de contar com qualquer um deles,
+confirme com a farmácia clínica e a CCIH — os quadros correspondentes trazem o esquema alternativo para quando
+o preferencial não estiver disponível.</p>
+
+<p style="margin-top:5mm;color:#69757f;font-size:8pt">Apresentações e marcas mudam. Esta página reflete a
+verificação feita para a 4ª edição; diante de dúvida, confirmar na bula da apresentação efetivamente dispensada
+e no formulário da instituição.</p>
+</section>"""
+
 # --------------------------------------------------------------- sumário
 toc=['<section class="toc front"><div class="kicker">Conteúdo</div><h2>Sumário</h2>']
 toc.append('<div class="c"><span class="n"></span><span class="t">Páginas de abertura</span>'
            '<span class="dots"></span><span class="p"></span></div>')
 for lbl, hid in (('Aviso clínico e médico-legal','f-aviso'),('A anatomia de um quadro','f-como'),
+                 ('Apresentações disponíveis no Brasil','f-apresentacoes'),
                  ('Alergia a betalactâmico em uma página','f-alergia')):
     toc.append(f'<div class="q"><span class="n"></span><span class="t">{lbl}</span>'
                f'<span class="dots"></span><span class="p"><a href="#{hid}"></a></span></div>')
@@ -391,6 +434,8 @@ HTML = f'''<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8">
 {AVISO.replace('<section class="front">','<section class="front" id="f-aviso">')}
 <div class="pagebreak"></div>
 {COMO.replace('<section class="front">','<section class="front" id="f-como">')}
+<div class="pagebreak"></div>
+{APRESENTACOES}
 <div class="pagebreak"></div>
 {ALERGIA.replace('<section class="front">','<section class="front" id="f-alergia">')}
 <div class="pagebreak"></div>

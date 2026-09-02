@@ -262,5 +262,53 @@
   "escopo": "Fichas de antimicrobianos",
   "achado": "As fichas eram numeradas por classe farmacológica (penicilinas, depois cefalosporinas, depois carbapenêmicos…), o que obriga a saber a classe antes de encontrar o fármaco.",
   "correcao": "Reordenadas em ordem alfabética e renumeradas de A1 a A41; a classe permanece visível como etiqueta em cada ficha, e o novo índice de antimicrobianos remete a todos os quadros em que cada fármaco aparece com dose."
+ },
+ {
+  "sev": "A",
+  "escopo": "1.1, 1.3, 1.4, 1.5 e 1.6 — amoxicilina-clavulanato",
+  "achado": "O livro prescrevia amoxicilina-clavulanato \"2 g/125 mg VO 12/12 h (XR)\" em treze pontos, inclusive como esquema de transição oral da pneumonia e como dose alta da sinusite. Essa apresentação de liberação prolongada não tem registro no Brasil: as apresentações orais disponíveis são 500/125 mg e 875/125 mg, e as suspensões 250/62,5 e 400/57 mg por 5 mL.",
+  "correcao": "Substituída pela posologia possível no Brasil: 875/125 mg VO 12/12 h (ou 500/125 mg VO 8/8 h). Onde a intenção era aumentar a exposição à amoxicilina, o esquema passa a associar amoxicilina isolada 500–875 mg VO 12/12 h, sem elevar o clavulanato — que é o fator limitante de tolerância."
+ },
+ {
+  "sev": "A",
+  "escopo": "14.2 e 14.3 — amoxicilina-clavulanato em pediatria",
+  "achado": "Os quadros prescreviam \"90 mg/kg/dia de amoxicilina\" na forma de amoxicilina-clavulanato. Essa dose vem das diretrizes norte-americanas e pressupõe a suspensão 600/42,9 mg/5 mL (proporção 14:1), que não é comercializada no Brasil. Com a suspensão brasileira (400/57 mg/5 mL, proporção 7:1), a mesma dose de amoxicilina leva o clavulanato a cerca de 12,8 mg/kg/dia — acima do limite de tolerância e causa previsível de diarreia e abandono do tratamento.",
+  "correcao": "Os esquemas passam a limitar a suspensão combinada a 70 mg/kg/dia de amoxicilina e a completar com amoxicilina isolada até 80–90 mg/kg/dia, mantendo o clavulanato em até 10 mg/kg/dia. Acrescentado alerta explicando a diferença entre as apresentações brasileira e norte-americana."
+ },
+ {
+  "sev": "B",
+  "escopo": "2.1 e 4.1 — penicilina V",
+  "achado": "A dose era escrita como \"penicilina V 500 mg\", que é a forma norte-americana. No Brasil a fenoximetilpenicilina é apresentada em comprimido de 500.000 UI (≈ 312 mg) e em solução oral de 80.000 UI/mL; não existe comprimido rotulado em miligramas, o que torna a prescrição não executável na farmácia.",
+  "correcao": "Posologia reescrita na unidade da apresentação brasileira: 500.000 UI VO 6/6 h a 8/8 h, com a equivalência em miligramas indicada uma vez."
+ },
+ {
+  "sev": "B",
+  "escopo": "1.1 e demais quadros que usam amoxicilina 1 g",
+  "achado": "A conduta de partida da pneumonia comunitária é amoxicilina 1 g VO 8/8 h — dose correta pela diretriz, mas sem apresentação correspondente no Brasil, onde existem cápsula de 500 mg e comprimido de 875 mg.",
+  "correcao": "Acrescentada a nota de que 1 g corresponde a duas cápsulas de 500 mg, para que a prescrição seja executável. A dose recomendada não foi alterada."
+ },
+ {
+  "sev": "A",
+  "escopo": "12.1 e 12.9 — apresentações oftálmicas",
+  "achado": "A conjuntivite bacteriana tinha como conduta de partida \"polimixina B/trimetoprima colírio\" e a blefarite, \"eritromicina ou bacitracina pomada oftálmica\". Nenhuma das três apresentações é comercializada no Brasil: são produtos norte-americanos (Polytrim, eritromicina oftálmica, bacitracina oftálmica isolada).",
+  "correcao": "Substituídas pelas apresentações com registro nacional: tobramicina 0,3% colírio e pomada, com ciprofloxacino, azitromicina colírio e as associações oxitetraciclina + polimixina B e neomicina + polimixina B + bacitracina listadas como alternativas."
+ },
+ {
+  "sev": "C",
+  "escopo": "10.6 — mastite puerperal",
+  "achado": "A conduta de partida citava \"Cefalexina ou Oxacilina/Dicloxacilina\". A dicloxacilina não é comercializada no Brasil e a oxacilina existe apenas como apresentação injetável — nenhuma das duas serve para o tratamento oral que o quadro descreve.",
+  "correcao": "Conduta reescrita como cefalexina por via oral, com oxacilina endovenosa nomeada apenas para o cenário de internação."
+ },
+ {
+  "sev": "B",
+  "escopo": "11.1, 14.1, 14.2, 14.3 e 14.5 — cefalosporinas orais de alternativa",
+  "achado": "As alternativas para alergia não grave a penicilina abriam com cefdinir e cefpodoxima, e a ITU febril e a gonorreia ofereciam cefixima sem ressalva. No Brasil o cefdinir existe apenas como suspensão oral pediátrica (não há cápsula para adulto) e cefpodoxima e cefixima têm disponibilidade variável; o alerta que já existia dizia genericamente para não usar cefdinir, o que também não é exato.",
+  "correcao": "A cefuroxima axetil — a de apresentação mais estável no país — passou a encabeçar as alternativas, com cefdinir mantido em seguida e a ressalva de disponibilidade escrita de forma precisa em cada quadro."
+ },
+ {
+  "sev": "B",
+  "escopo": "Abertura do livro — nova página",
+  "achado": "O livro não tinha nenhum lugar em que a diferença entre a dose da diretriz e a apresentação disponível no Brasil fosse tratada de forma sistemática — o que produziu, ao longo da edição anterior, prescrições corretas pela diretriz e impossíveis na farmácia.",
+  "correcao": "Acrescentada a página \"Apresentações disponíveis no Brasil\", com os pontos em que a apresentação nacional muda a receita, a lista do que é citado na literatura internacional sem equivalente aqui, e a ressalva sobre antimicrobianos de reserva registrados mas não necessariamente disponíveis."
  }
 ]

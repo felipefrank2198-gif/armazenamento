@@ -164,9 +164,9 @@
           ],
           [
            "Falha com amoxicilina",
-           "Amoxicilina + Clavulanato · 2 g/125 mg VO 12/12 h (XR) · VO",
+           "Amoxicilina + Clavulanato · 875/125 mg VO 12/12 h; quando for necessária maior exposição à amoxicilina, associar amoxicilina isolada 500–875 mg VO 12/12 h em vez de aumentar o clavulanato · VO",
            "5 dias, se resposta clínica adequada",
-           "Provavelmente H. influenzae ou MSSA produtor de betalactamase"
+           "Provavelmente H. influenzae ou MSSA produtor de betalactamase. No Brasil não há a apresentação de 2000/125 mg (XR): as apresentações orais são 500/125 mg e 875/125 mg."
           ]
          ],
          "note": "Sobre a duração: Mesma regra de duração do esquema principal."
@@ -347,7 +347,7 @@
           ],
           [
            "Transição EV → VO",
-           "Afebril por 24–48 h, hemodinamicamente estável, tolerando dieta e com absorção preservada • Pneumococo confirmado: amoxicilina 1 g VO 8/8 h • Sem agente identificado: amoxicilina-clavulanato 2 g/125 mg VO 12/12 h • Escolher o oral pelo patógeno, alergia, absorção e apresentação disponível no Brasil"
+           "Afebril por 24–48 h, hemodinamicamente estável, tolerando dieta e com absorção preservada • Pneumococo confirmado: amoxicilina 1 g VO 8/8 h • Sem agente identificado: amoxicilina-clavulanato 875/125 mg VO 12/12 h • Escolher o oral pelo patógeno, alergia, absorção e apresentação disponível no Brasil"
           ]
          ]
         }
@@ -369,12 +369,12 @@
            "hep": "",
            "gest": "aceito",
            "gest_txt": "Uso aceito quando indicado — considerar idade gestacional e foco",
-           "nota": ""
+           "nota": "No Brasil não há apresentação de 1 g: a dose de 1 g corresponde a duas cápsulas de 500 mg. As apresentações orais são cápsula de 500 mg e comprimido de 875 mg."
           },
           {
            "nome": "Amoxicilina + Clavulanato",
            "padrao": "875/125 mg VO 12/12 h",
-           "grave": "2 g/125 mg VO 12/12 h (XR)",
+           "grave": "875/125 mg VO 12/12 h; quando for necessária maior exposição à amoxicilina, associar amoxicilina isolada 500–875 mg VO 12/12 h em vez de aumentar o clavulanato",
            "via": "VO",
            "renal": ">30 mL/min: Dose padrão; <30 mL/min: Não usar a apresentação 875/125 mg; selecionar formulação e intervalo conforme bula/protocolo.",
            "teto": "Amoxicilina: 4 g/dia",
@@ -1176,7 +1176,7 @@
           {
            "nome": "Amoxicilina + Clavulanato",
            "padrao": "875/125 mg VO 12/12 h",
-           "grave": "2 g/125 mg VO 12/12 h",
+           "grave": "875/125 mg VO 12/12 h",
            "via": "VO",
            "renal": ">30 mL/min: Dose padrão; <30 mL/min: Não usar a apresentação 875/125 mg; selecionar formulação e intervalo conforme bula/protocolo.",
            "teto": "",
@@ -1311,7 +1311,7 @@
           ],
           [
            "Risco de pneumococo resistente ou infecção mais grave",
-           "Amoxicilina + Clavulanato em dose alta · 2 g/125 mg VO 12/12 h (XR, quando disponível) · VO",
+           "Amoxicilina + Clavulanato em dose alta · 875/125 mg VO 12/12 h; quando for necessária maior exposição à amoxicilina, associar amoxicilina isolada 500–875 mg VO 12/12 h em vez de aumentar o clavulanato · VO",
            "7 dias",
            "Considerar se >65 anos, antibiótico no último mês, hospitalização recente, imunossupressão ou quadro grave."
           ],
@@ -1420,7 +1420,7 @@
           [
            "3",
            "Risco de resistência ou grave",
-           "Amox+Clav XR 2 g/125 mg VO 12/12 h por 7 dias, se disponível."
+           "Amoxicilina-clavulanato 875/125 mg VO 12/12 h por 7 dias, associando amoxicilina isolada 875 mg VO 12/12 h quando houver risco de pneumococo com sensibilidade reduzida."
           ],
           [
            "4",
@@ -1493,7 +1493,7 @@
           {
            "nome": "Amoxicilina + Clavulanato",
            "padrao": "875/125 mg VO 12/12 h",
-           "grave": "2 g/125 mg VO 12/12 h",
+           "grave": "875/125 mg VO 12/12 h",
            "via": "VO",
            "renal": ">30 mL/min: Dose padrão; <30 mL/min: Não usar a apresentação 875/125 mg; selecionar formulação e intervalo conforme bula/protocolo.",
            "teto": "",
@@ -1634,7 +1634,7 @@
           ],
           [
            "Transição VO ou quadro leve selecionado",
-           "Amoxicilina + Clavulanato · 875/125 mg VO 12/12 h ou 2 g/125 mg VO 12/12 h · VO",
+           "Amoxicilina + Clavulanato · 875/125 mg VO 12/12 h ou 500/125 mg VO 8/8 h · VO",
            "5–7 dias conforme resposta",
            "Usar quando estável, tolerando VO e sem choque/hipoxemia grave."
           ],
@@ -1961,7 +1961,7 @@
           ],
           [
            "Transição VO após melhora clínica",
-           "Amoxicilina + Clavulanato · 875/125 mg VO 12/12 h ou 2 g/125 mg VO 12/12 h · VO",
+           "Amoxicilina + Clavulanato · 875/125 mg VO 12/12 h ou 500/125 mg VO 8/8 h · VO",
            "Completar 3–6 semanas conforme resposta radioclínica",
            "Usar quando afebril/estável, tolerando VO e com melhora laboratorial/radiológica."
           ]
@@ -3262,7 +3262,7 @@
            "Teste rápido/cultura positivo ou alta suspeita sem sinais virais",
            "Amoxicilina · 500 mg VO 12/12 h ou 1 g VO 24/24 h · VO",
            "10 dias",
-           "Alternativa clássica: penicilina V 500 mg VO 12/12 h por 10 dias."
+           "Alternativa clássica: penicilina V (fenoximetilpenicilina) 500.000 UI VO 6/6 h a 8/8 h por 10 dias."
           ],
           [
            "Baixa adesão, vômitos ou preferência por dose única",
@@ -7990,9 +7990,9 @@
           ],
           [
            "Erisipela clássica estreptocócica",
-           "Penicilina V ou Amoxicilina · Penicilina V 500 mg VO 6/6 h OU amoxicilina 500 mg VO 8/8 h · VO",
+           "Penicilina V ou Amoxicilina · Penicilina V (fenoximetilpenicilina) 500.000 UI VO 6/6 h OU amoxicilina 500 mg VO 8/8 h · VO",
            "5–7 dias",
-           "Boa opção quando quadro é típico estreptocócico, sem purulência."
+           "Boa opção quando o quadro é tipicamente estreptocócico, sem purulência. No Brasil a penicilina V é apresentada em comprimido de 500.000 UI (≈ 312 mg) e em solução oral de 80.000 UI/mL — não há comprimido expresso em miligramas."
           ],
           [
            "Moderada, extensa, falha VO ou necessidade de observação",
@@ -24562,8 +24562,8 @@
      "hero": [
       {
        "label": "CONDUTA DE PARTIDA",
-       "value": "Cefalexina ou Oxacilina/Dicloxacilina Cefalexina 500 mg VO 6/6 h",
-       "title": "Cefalexina ou Oxacilina/Dicloxacilina",
+       "value": "Cefalexina; oxacilina EV se internação Cefalexina 500 mg VO 6/6 h",
+       "title": "Cefalexina; oxacilina EV se internação",
        "detail": "Cefalexina 500 mg VO 6/6 h"
       },
       {
@@ -25634,7 +25634,7 @@
            "Ceftriaxona indisponível para gonococo não complicado",
            "Cefixima + Doxiciclina se clamídia não excluída · Cefixima 800 mg VO dose única + doxiciclina 100 mg VO 12/12 h por 7 dias · VO",
            "Dose única + 7 dias",
-           "Alternativa inferior; evitar como solução de rotina para gonorreia faríngea se ceftriaxona estiver disponível."
+           "Alternativa inferior; evitar como solução de rotina para gonorreia faríngea quando houver ceftriaxona. A cefixima tem disponibilidade variável no Brasil — confirmar antes de contar com ela como plano B."
           ]
          ]
         }
@@ -28032,9 +28032,9 @@
      "hero": [
       {
        "label": "CONDUTA DE PARTIDA",
-       "value": "Higiene e observação na maioria; antibiótico tópico por princípio ativo quando bacteriana provável/confirmada Polimixina B/Trimetoprima 1 gota 6/6 h; quinolona tópica se lente de contato sem ceratite aparente",
-       "title": "Higiene e observação na maioria; antibiótico tópico por princípio ativo quando bacteriana provável/confirmada",
-       "detail": "Polimixina B/Trimetoprima 1 gota 6/6 h; quinolona tópica se lente de contato sem ceratite aparente"
+       "value": "Higiene e observação na maioria; colírio antibiótico quando bacteriana provável Tobramicina 0,3% colírio, 1 gota 4/4 h a 6/6 h; quinolona tópica se usuário de lente de contato sem ceratite aparente",
+       "title": "Higiene e observação na maioria; colírio antibiótico quando bacteriana provável",
+       "detail": "Tobramicina 0,3% colírio, 1 gota 4/4 h a 6/6 h; quinolona tópica se usuário de lente de contato sem ceratite aparente"
       },
       {
        "label": "VIA",
@@ -28105,9 +28105,9 @@
           ],
           [
            "Conjuntivite bacteriana provável, sem sinais de alarme",
-           "Polimixina B + Trimetoprima ou Tobramicina colírio · 1 gota no olho acometido 6/6 h · Topica",
+           "Tobramicina 0,3% colírio · 1 gota no olho acometido 4/4 h a 6/6 h · Tópica",
            "5–7 dias",
-           "Reavaliar se não melhora em 48–72 h ou se surgirem sinais de alarme."
+           "Alternativas com apresentação brasileira: ciprofloxacino 0,3% colírio, azitromicina 1,5% colírio, ou pomada de oxitetraciclina + polimixina B / neomicina + polimixina B + bacitracina. Reavaliar se não melhorar em 48–72 h ou se surgirem sinais de alarme."
           ],
           [
            "Usuário de lente de contato, olho vermelho sem úlcera aparente",
@@ -28245,9 +28245,9 @@
          "t": "drugs",
          "rows": [
           {
-           "nome": "Polimixina B + Trimetoprima colírio",
-           "padrao": "1 gota 6/6 h por 5–7 dias",
-           "grave": "Não indicado para infecção grave",
+           "nome": "Tobramicina colírio 0,3%",
+           "padrao": "1 gota 4/4 h a 6/6 h por 5–7 dias",
+           "grave": "Não indicada para ceratite/úlcera — nesses casos, quinolona tópica em dose intensiva por oftalmologia",
            "via": "Topica",
            "renal": "Geral: Sem ajuste renal usual ou ajustar conforme antimicrobiano específico",
            "teto": "",
@@ -30450,9 +30450,9 @@
           ],
           [
            "Blefarite anterior bacteriana ou secreção na margem palpebral",
-           "Eritromicina ou bacitracina pomada oftálmica · Aplicar na margem palpebral 1–2x/dia · Topica",
+           "Tobramicina 0,3% pomada oftálmica · Aplicar na margem palpebral 1–2×/dia · Tópica",
            "7–10 dias",
-           "Uso tópico ocular/palpebral."
+           "No Brasil não há pomada oftálmica de eritromicina nem de bacitracina isolada. As opções com apresentação nacional são tobramicina 0,3% pomada e as associações oxitetraciclina + polimixina B ou neomicina + polimixina B + bacitracina."
           ],
           [
            "Celulite palpebral associada",
@@ -30610,8 +30610,8 @@
          "t": "drugs",
          "rows": [
           {
-           "nome": "Eritromicina pomada oftálmica",
-           "padrao": "Aplicar 1–2x/dia por 7–10 dias",
+           "nome": "Tobramicina pomada oftálmica 0,3%",
+           "padrao": "Aplicar na margem palpebral 1–2×/dia por 7–10 dias",
            "grave": "Não aplicável",
            "via": "Topica",
            "renal": "Geral: Sem ajuste renal usual ou ajustar conforme antimicrobiano específico",
@@ -32995,9 +32995,9 @@
          "rows": [
           [
            "Alergia não anafilática a penicilina",
-           "Cefuroxima axetil ou Cefdinir · Cefuroxima 30 mg/kg/dia VO 12/12 h ou Cefdinir 14 mg/kg/dia VO 1–2x/dia · VO",
+           "Cefuroxima axetil ou Cefdinir · Cefuroxima axetil 30 mg/kg/dia VO 12/12 h; cefdinir 14 mg/kg/dia VO 1–2×/dia · VO",
            "5–7 dias",
-           "Evitar se história de reação grave imediata."
+           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável e podem não ser encontradas. Confirmar no formulário local antes de prescrever."
           ],
           [
            "Alergia grave/anafilaxia a betalactâmico",
@@ -33279,9 +33279,9 @@
           ],
           [
            "Amoxicilina nos últimos 30 dias, conjuntivite purulenta ou falha inicial",
-           "Amoxicilina + Clavulanato · 90 mg/kg/dia de amoxicilina VO 12/12 h · VO",
+           "Amoxicilina + Clavulanato · até 70 mg/kg/dia de amoxicilina VO 12/12 h (suspensão 400/57 mg/5 mL); completar com amoxicilina isolada para atingir 80–90 mg/kg/dia · VO",
            "7–10 dias",
-           "Escolha quando maior chance de H. influenzae/Moraxella betalactamase."
+           "Escolha quando houver maior chance de H. influenzae/Moraxella produtores de betalactamase. No Brasil não existe a suspensão 14:1 (600/42,9 mg/5 mL): com a suspensão 400/57 mg/5 mL, 90 mg/kg/dia de amoxicilina levaria o clavulanato a ~12,8 mg/kg/dia. Manter o clavulanato em até 10 mg/kg/dia e completar a amoxicilina com o produto isolado."
           ],
           [
            "Vômitos, impossibilidade VO ou falha importante",
@@ -33308,9 +33308,9 @@
          "rows": [
           [
            "Alergia não grave a penicilina",
-           "Cefdinir ou Cefuroxima · Cefdinir 14 mg/kg/dia VO 1–2x/dia; Cefuroxima 30 mg/kg/dia VO 12/12 h · VO",
+           "Cefuroxima axetil ou Cefdinir · Cefuroxima axetil 30 mg/kg/dia VO 12/12 h; cefdinir 14 mg/kg/dia VO 1–2×/dia · VO",
            "5–10 dias conforme idade/gravidade",
-           "Evitar cefalosporina se anafilaxia grave documentada."
+           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável e podem não ser encontradas. Confirmar no formulário local antes de prescrever."
           ],
           [
            "Alergia grave a betalactâmico",
@@ -33328,8 +33328,14 @@
         {
          "t": "callout",
          "sev": "atencao",
+         "title": "ATENÇÃO · DOSE ALTA DE AMOXICILINA-CLAVULANATO NO BRASIL",
+         "body": "A dose alta descrita nas diretrizes norte-americanas (90 mg/kg/dia de amoxicilina com 6,4 mg/kg/dia de clavulanato) depende da suspensão 600/42,9 mg/5 mL, na proporção 14:1, que não existe no Brasil. Com a suspensão disponível aqui (400/57 mg/5 mL, proporção 7:1), 90 mg/kg/dia de amoxicilina levariam o clavulanato a cerca de 12,8 mg/kg/dia, acima do que se tolera. A forma correta de chegar a 80–90 mg/kg/dia é dar até 70 mg/kg/dia pela suspensão combinada e completar com amoxicilina isolada."
+        },
+        {
+         "t": "callout",
+         "sev": "atencao",
          "title": "ATENÇÃO · DISPONIBILIDADE NO BRASIL",
-         "body": "Não apresentar cefdinir ou outras formulações pouco disponíveis como alternativa universal. Priorizar amoxicilina/amoxicilina-clavulanato e escolher alternativa por tipo de alergia e formulário local."
+         "body": "A cefalosporina oral de alternativa com apresentação mais estável no Brasil é a cefuroxima axetil. O cefdinir existe aqui apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável. Priorizar amoxicilina ou amoxicilina-clavulanato e escolher a alternativa pelo tipo de alergia e pelo formulário do serviço."
         },
         {
          "t": "callout",
@@ -33439,8 +33445,8 @@
           },
           {
            "nome": "Amoxicilina + Clavulanato",
-           "padrao": "90 mg/kg/dia de amoxicilina VO 12/12 h",
-           "grave": "Mesma dose alta; avaliar complicação",
+           "padrao": "até 70 mg/kg/dia de amoxicilina VO 12/12 h (suspensão 400/57 mg/5 mL)",
+           "grave": "completar com amoxicilina isolada até 80–90 mg/kg/dia, mantendo o clavulanato em até 10 mg/kg/dia",
            "via": "VO",
            "renal": "Geral: Dose sempre por peso atual; revisar função renal quando EV, sepse, desidratação, DRC, uso de aminoglicosídeo/vancomicina/aciclovir ou curso prolongado",
            "teto": "",
@@ -33496,9 +33502,9 @@
      "hero": [
       {
        "label": "CONDUTA DE PARTIDA",
-       "value": "Amoxicilina + Clavulanato 45–90 mg/kg/dia de amoxicilina VO dividido 12/12 h",
+       "value": "Amoxicilina + Clavulanato 45 mg/kg/dia de amoxicilina VO 12/12 h; 80–90 mg/kg/dia se risco de resistência ou gravidade — com a suspensão brasileira 400/57 mg/5 mL, até 70 mg/kg/dia e o restante com amoxicilina isolada",
        "title": "Amoxicilina + Clavulanato",
-       "detail": "45–90 mg/kg/dia de amoxicilina VO dividido 12/12 h"
+       "detail": "45 mg/kg/dia de amoxicilina VO 12/12 h; 80–90 mg/kg/dia se risco de resistência ou gravidade — com a suspensão brasileira 400/57 mg/5 mL, até 70 mg/kg/dia e o restante com amoxicilina isolada"
       },
       {
        "label": "VIA",
@@ -33558,7 +33564,7 @@
          "rows": [
           [
            "Sinusite bacteriana persistente, grave ou com piora bifásica",
-           "Amoxicilina ± Clavulanato · 45 mg/kg/dia de amoxicilina VO 12/12 h; usar 80–90 mg/kg/dia se risco de resistência/gravidade · VO",
+           "Amoxicilina ± Clavulanato · 45 mg/kg/dia de amoxicilina VO 12/12 h; se risco de resistência ou gravidade, 80–90 mg/kg/dia — com a suspensão brasileira 400/57 mg/5 mL, dar até 70 mg/kg/dia pelo clavulanato e completar com amoxicilina isolada · VO",
            "10–14 dias; reavaliar se piora ou sem melhora em 72 h",
            "Em doença persistente sem gravidade pode haver observação por 3 dias se seguimento seguro; antibiótico imediato se início grave ou piora."
           ],
@@ -33586,9 +33592,9 @@
          "rows": [
           [
            "Alergia não grave a penicilina",
-           "Cefdinir, Cefuroxima ou Cefpodoxima · Cefdinir 14 mg/kg/dia VO 1–2x/dia · VO",
+           "Cefuroxima axetil ou Cefdinir · Cefuroxima axetil 30 mg/kg/dia VO 12/12 h; cefdinir 14 mg/kg/dia VO 1–2×/dia · VO",
            "10 dias",
-           "Escolher conforme disponibilidade e perfil local."
+           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável e podem não ser encontradas. Confirmar no formulário local antes de prescrever."
           ],
           [
            "Alergia grave a betalactâmico",
@@ -33607,7 +33613,7 @@
          "t": "callout",
          "sev": "atencao",
          "title": "ATENÇÃO · DISPONIBILIDADE NO BRASIL",
-         "body": "Não apresentar cefdinir ou outras formulações pouco disponíveis como alternativa universal. Priorizar amoxicilina/amoxicilina-clavulanato e escolher alternativa por tipo de alergia e formulário local."
+         "body": "A cefalosporina oral de alternativa com apresentação mais estável no Brasil é a cefuroxima axetil. O cefdinir existe aqui apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável. Priorizar amoxicilina ou amoxicilina-clavulanato e escolher a alternativa pelo tipo de alergia e pelo formulário do serviço."
         },
         {
          "t": "callout",
@@ -33699,8 +33705,8 @@
          "rows": [
           {
            "nome": "Amoxicilina + Clavulanato",
-           "padrao": "45–90 mg/kg/dia de amoxicilina VO 12/12 h",
-           "grave": "Usar dose alta se resistência/gravidade",
+           "padrao": "45 mg/kg/dia de amoxicilina VO 12/12 h",
+           "grave": "80–90 mg/kg/dia de amoxicilina: até 70 mg/kg/dia pela suspensão 400/57 mg/5 mL e o restante com amoxicilina isolada, mantendo o clavulanato em até 10 mg/kg/dia",
            "via": "VO",
            "renal": "Geral: Dose sempre por peso atual; revisar função renal quando EV, sepse, desidratação, DRC, uso de aminoglicosídeo/vancomicina/aciclovir ou curso prolongado",
            "teto": "",
@@ -34105,7 +34111,7 @@
            "Criança estável, aceitando VO, sem toxemia",
            "Cefalexina ou Cefixima · Cefalexina 50–100 mg/kg/dia VO 6/6 h ou Cefixima 8 mg/kg/dia VO 24/24 h · VO",
            "7–10 dias",
-           "Escolher conforme padrão local e antibiograma prévio."
+           "Escolher conforme o padrão local e o antibiograma prévio. A cefixima tem disponibilidade variável no Brasil; cefalexina e cefuroxima axetil são as opções orais mais constantes."
           ],
           [
            "Cistite afebril em criança maior",
