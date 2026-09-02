@@ -295,7 +295,8 @@ registro no Brasil. Esta página reúne os pontos em que a diferença muda a pre
 <tr><td class="k">Penicilina V</td><td>Comprimido de 500.000 UI (≈ 312 mg) e solução oral de 80.000 UI/mL. <b>Não há comprimido rotulado em miligramas</b>: prescrever em unidades internacionais.</td></tr>
 <tr><td class="k">Oxacilina</td><td>Apenas apresentação injetável. Para cobertura antiestafilocócica oral, a opção é cefalexina.</td></tr>
 <tr><td class="k">Cefdinir</td><td>Disponível apenas como suspensão oral pediátrica. Não há cápsula para adulto.</td></tr>
-<tr><td class="k">Cefpodoxima e cefixima</td><td>Disponibilidade variável. Não contar com elas como plano B sem confirmar no formulário do serviço.</td></tr>
+<tr><td class="k">Cefpodoxima</td><td>Registrada para uso humano (Orelox, comprimido de 100 e 200 mg), mas só para adulto — <b>não há suspensão pediátrica no Brasil</b>.</td></tr>
+<tr><td class="k">Cefixima</td><td><b>Sem registro para uso humano no Brasil.</b> Não prescrever; usar cefuroxima axetil ou cefpodoxima (adulto) como alternativa oral.</td></tr>
 <tr><td class="k">Colírios e pomadas oftálmicas</td><td>As opções com registro nacional são tobramicina 0,3% (colírio e pomada), ciprofloxacino 0,3%, azitromicina 1,5% e as associações oxitetraciclina + polimixina B e neomicina + polimixina B + bacitracina.</td></tr>
 </table>
 
@@ -306,6 +307,7 @@ registro no Brasil. Esta página reúne os pontos em que a diferença muda a pre
 <li><b>Dicloxacilina</b> — usar cefalexina por via oral; oxacilina apenas endovenosa.</li>
 <li><b>Colírio de polimixina B + trimetoprima</b> — usar tobramicina, ciprofloxacino ou azitromicina colírio.</li>
 <li><b>Pomada oftálmica de eritromicina e de bacitracina isolada</b> — usar tobramicina pomada ou as associações disponíveis.</li>
+<li><b>Cefixima</b> — sem registro para uso humano no Brasil; usar cefuroxima axetil (pediatria e adulto) ou cefpodoxima (apenas adulto).</li>
 </ul>
 
 <h3>Antimicrobianos de reserva: registro não é o mesmo que disponibilidade</h3>

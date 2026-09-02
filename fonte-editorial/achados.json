@@ -310,5 +310,23 @@
   "escopo": "Abertura do livro — nova página",
   "achado": "O livro não tinha nenhum lugar em que a diferença entre a dose da diretriz e a apresentação disponível no Brasil fosse tratada de forma sistemática — o que produziu, ao longo da edição anterior, prescrições corretas pela diretriz e impossíveis na farmácia.",
   "correcao": "Acrescentada a página \"Apresentações disponíveis no Brasil\", com os pontos em que a apresentação nacional muda a receita, a lista do que é citado na literatura internacional sem equivalente aqui, e a ressalva sobre antimicrobianos de reserva registrados mas não necessariamente disponíveis."
+ },
+ {
+  "sev": "B",
+  "escopo": "Múltiplos capítulos (11.1, 14.1, 14.2, 14.3, 14.5)",
+  "achado": "Nota de disponibilidade descrevia cefpodoxima e cefixima igualmente como 'disponibilidade variável'.",
+  "correcao": "Cefpodoxima tem registro humano no Brasil (Orelox, comprimido 100/200 mg, uso adulto, sem suspensão pediátrica); cefixima não tem registro para uso humano no país. Nota reescrita para distinguir as duas (5 ocorrências)."
+ },
+ {
+  "sev": "A",
+  "escopo": "14.5 ITU Febril pediátrica",
+  "achado": "Conduta oral de manutenção citava cefixima 8 mg/kg/dia, sem registro para uso humano no Brasil.",
+  "correcao": "Substituída por cefuroxima axetil 20–30 mg/kg/dia VO 12/12h como segunda opção junto à cefalexina, ambas com apresentação pediátrica disponível no país."
+ },
+ {
+  "sev": "A",
+  "escopo": "Uretrite/cervicite — alergia e ceftriaxona indisponível",
+  "achado": "Cefixima listada como alternativa oral prática à ceftriaxona para gonorreia; não tem registro para uso humano no Brasil.",
+  "correcao": "Ressalva reescrita deixando explícito que a cefixima não é comercializada no país e que a conduta correta é priorizar obter ceftriaxona, não substituir por um fármaco indisponível."
  }
 ]

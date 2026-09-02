@@ -25632,9 +25632,9 @@
           ],
           [
            "Ceftriaxona indisponível para gonococo não complicado",
-           "Cefixima + Doxiciclina se clamídia não excluída · Cefixima 800 mg VO dose única + doxiciclina 100 mg VO 12/12 h por 7 dias · VO",
+           "Cefixima 800 mg VO dose única + doxiciclina 100 mg VO 12/12 h por 7 dias se clamídia não excluída · Reservada a onde a cefixima for obtida por importação/manipulação — não tem registro para uso humano no Brasil · VO",
            "Dose única + 7 dias",
-           "Alternativa inferior; evitar como solução de rotina para gonorreia faríngea quando houver ceftriaxona. A cefixima tem disponibilidade variável no Brasil — confirmar antes de contar com ela como plano B."
+           "A cefixima não é comercializada no Brasil. Diante de gonococo e ceftriaxona indisponível, priorize obter/transferir ceftriaxona em vez de contar com esta alternativa; não há substituto oral nacional equivalente validado pelo PCDT."
           ]
          ]
         }
@@ -32997,7 +32997,7 @@
            "Alergia não anafilática a penicilina",
            "Cefuroxima axetil ou Cefdinir · Cefuroxima axetil 30 mg/kg/dia VO 12/12 h; cefdinir 14 mg/kg/dia VO 1–2×/dia · VO",
            "5–7 dias",
-           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável e podem não ser encontradas. Confirmar no formulário local antes de prescrever."
+           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica. A cefpodoxima está disponível como Orelox comprimido de 100 e 200 mg, mas apenas para uso adulto — não há suspensão pediátrica registrada no Brasil. A cefixima não tem registro para uso humano no país e não deve ser prescrita aqui."
           ],
           [
            "Alergia grave/anafilaxia a betalactâmico",
@@ -33310,7 +33310,7 @@
            "Alergia não grave a penicilina",
            "Cefuroxima axetil ou Cefdinir · Cefuroxima axetil 30 mg/kg/dia VO 12/12 h; cefdinir 14 mg/kg/dia VO 1–2×/dia · VO",
            "5–10 dias conforme idade/gravidade",
-           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável e podem não ser encontradas. Confirmar no formulário local antes de prescrever."
+           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica. A cefpodoxima está disponível como Orelox comprimido de 100 e 200 mg, mas apenas para uso adulto — não há suspensão pediátrica registrada no Brasil. A cefixima não tem registro para uso humano no país e não deve ser prescrita aqui."
           ],
           [
            "Alergia grave a betalactâmico",
@@ -33335,7 +33335,7 @@
          "t": "callout",
          "sev": "atencao",
          "title": "ATENÇÃO · DISPONIBILIDADE NO BRASIL",
-         "body": "A cefalosporina oral de alternativa com apresentação mais estável no Brasil é a cefuroxima axetil. O cefdinir existe aqui apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável. Priorizar amoxicilina ou amoxicilina-clavulanato e escolher a alternativa pelo tipo de alergia e pelo formulário do serviço."
+         "body": "A cefalosporina oral de alternativa com apresentação mais estável no Brasil é a cefuroxima axetil. O cefdinir existe aqui apenas como suspensão oral pediátrica. A cefpodoxima (Orelox 100/200 mg comprimido) só serve para adulto, sem suspensão pediátrica registrada; a cefixima não tem registro para uso humano no Brasil. Priorizar amoxicilina ou amoxicilina-clavulanato e escolher a alternativa pelo tipo de alergia e pelo formulário do serviço."
         },
         {
          "t": "callout",
@@ -33594,7 +33594,7 @@
            "Alergia não grave a penicilina",
            "Cefuroxima axetil ou Cefdinir · Cefuroxima axetil 30 mg/kg/dia VO 12/12 h; cefdinir 14 mg/kg/dia VO 1–2×/dia · VO",
            "10 dias",
-           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável e podem não ser encontradas. Confirmar no formulário local antes de prescrever."
+           "No Brasil, a cefalosporina oral de alternativa mais disponível é a cefuroxima axetil (comprimido de 250 e 500 mg e suspensão). O cefdinir existe apenas como suspensão oral pediátrica. A cefpodoxima está disponível como Orelox comprimido de 100 e 200 mg, mas apenas para uso adulto — não há suspensão pediátrica registrada no Brasil. A cefixima não tem registro para uso humano no país e não deve ser prescrita aqui."
           ],
           [
            "Alergia grave a betalactâmico",
@@ -33613,7 +33613,7 @@
          "t": "callout",
          "sev": "atencao",
          "title": "ATENÇÃO · DISPONIBILIDADE NO BRASIL",
-         "body": "A cefalosporina oral de alternativa com apresentação mais estável no Brasil é a cefuroxima axetil. O cefdinir existe aqui apenas como suspensão oral pediátrica; cefpodoxima e cefixima têm disponibilidade variável. Priorizar amoxicilina ou amoxicilina-clavulanato e escolher a alternativa pelo tipo de alergia e pelo formulário do serviço."
+         "body": "A cefalosporina oral de alternativa com apresentação mais estável no Brasil é a cefuroxima axetil. O cefdinir existe aqui apenas como suspensão oral pediátrica. A cefpodoxima (Orelox 100/200 mg comprimido) só serve para adulto, sem suspensão pediátrica registrada; a cefixima não tem registro para uso humano no Brasil. Priorizar amoxicilina ou amoxicilina-clavulanato e escolher a alternativa pelo tipo de alergia e pelo formulário do serviço."
         },
         {
          "t": "callout",
@@ -34036,8 +34036,8 @@
      "hero": [
       {
        "label": "CONDUTA DE PARTIDA",
-       "value": "Ceftriaxona ou Cefalexina/Cefixima conforme gravidade Ceftriaxona 50–75 mg/kg/dia EV/IM 24/24 h",
-       "title": "Ceftriaxona ou Cefalexina/Cefixima conforme gravidade",
+       "value": "Ceftriaxona ou Cefalexina/Cefuroxima axetil conforme gravidade Ceftriaxona 50–75 mg/kg/dia EV/IM 24/24 h",
+       "title": "Ceftriaxona ou Cefalexina/Cefuroxima axetil conforme gravidade",
        "detail": "Ceftriaxona 50–75 mg/kg/dia EV/IM 24/24 h"
       },
       {
@@ -34109,9 +34109,9 @@
           ],
           [
            "Criança estável, aceitando VO, sem toxemia",
-           "Cefalexina ou Cefixima · Cefalexina 50–100 mg/kg/dia VO 6/6 h ou Cefixima 8 mg/kg/dia VO 24/24 h · VO",
+           "Cefalexina ou Cefuroxima axetil · Cefalexina 50–100 mg/kg/dia VO 6/6 h ou cefuroxima axetil 20–30 mg/kg/dia VO 12/12 h · VO",
            "7–10 dias",
-           "Escolher conforme o padrão local e o antibiograma prévio. A cefixima tem disponibilidade variável no Brasil; cefalexina e cefuroxima axetil são as opções orais mais constantes."
+           "Escolher conforme o padrão local e o antibiograma prévio. A cefixima não tem registro para uso humano no Brasil; cefalexina e cefuroxima axetil são as opções orais disponíveis aqui."
           ],
           [
            "Cistite afebril em criança maior",
